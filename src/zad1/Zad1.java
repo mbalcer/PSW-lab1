@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class Zad1 {
     public static void menu() {
         System.out.println("1. Wpisz wartość");
         System.out.println("2. Wyświetl liczbę unikatowych wartości");
